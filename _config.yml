@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Mohammed Haroon
-middle_name: R.
+middle_name:
 last_name: Dupty
 email: haroon@nus.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -274,8 +274,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Dupty]
+  first_name: [Mohammed Haroon]
 
   style: apa
   locale: en
