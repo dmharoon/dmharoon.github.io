@@ -1,3 +1,38 @@
+"lee":
+  - firstname: ["Wee Sun", "Wee Sun Lee", "Lee Wee Sun"]
+    url: https://www.comp.nus.edu.sg/~leews
+
+"wei":
+  - firstname: ["Lu"]
+    url: https://istd.sutd.edu.sg/people/faculty/lu-wei
+
+"shi":
+  - firstname: ["Javen", "Javen Qinfeng"]
+    url: https://cs.adelaide.edu.au/~javen/
+
+# "zhang":
+#   - firstname: ["Zhen"]
+#     url: https://zzhang.org
+
+# "yang":
+#   - firstname: ['Zhou']
+#     url: https://yangzhou.netlify.app
+
+# "leng":
+#   - firstname: ["sicong"]
+#     url: https://lengsicong.github.io
+
+# "dupty":
+#   - firstname: ["Mohammed Haroon"]
+#     url: https://dmharoon.github.io
+
+# "podolsky":
+#   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+#     url: https://en.wikipedia.org/wiki/Boris_Podolsky
+
+
+
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
