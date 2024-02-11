@@ -23,7 +23,10 @@ social: true # includes social icons at the bottom of the page
 
 I am a Research Fellow jointly at School of Computing (SoC) and Institute for Functional Intelligent Materials (IFIM), National University of Singapore (NUS), where I work on <b>Graph Neural Networks</b> and their applications in molecular representation learning.
 
-My general research interests lie in <b>Representation learning</b>  and <b>Probabilistic modeling</b>. Over the last few years, I have worked on representation learning on the graph structured data with applications in vision, language and molecular representation learning.
+My general research interests lie in <b>Representation learning, Probabilistic  and Generative modeling</b>. Over the last few years, I have worked on representation learning on the graph structured data with applications in vision, language and Science.
+
+Generative
+Modeling with applications in Vision, Language and Science.
 
 Previously, I graduated with a <b>PhD in Computer Science</b> from SoC, NUS where I was advised by [Prof. Lee Wee Sun](https://www.comp.nus.edu.sg/~leews/). My PhD thesis work was focussed on improving the expressive power of Graph Neural Networks. 
 
