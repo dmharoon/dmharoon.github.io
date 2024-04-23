@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href="">Constrained Layout Design with Factor Graphs</a> is accepted at <a href="https://cvpr.thecvf.com">CVPR 2024</a>.
+Our paper <a href="">Constrained Layout Generation with Factor Graphs</a> is accepted at <a href="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers">CVPR 2024</a>.
