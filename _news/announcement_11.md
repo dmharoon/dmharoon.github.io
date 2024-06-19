@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href="">Differentiable Cluster Graph Neural Network</a> is accepted at Differentiable Almost Everything Workshop <a href="https://differentiable.xyz">in ICML 2024</a>.
+Our paper <a href="https://arxiv.org/abs/2405.16185v1">Differentiable Cluster Graph Neural Network</a> is accepted at Differentiable Almost Everything Workshop <a href="https://differentiable.xyz">in ICML 2024</a>.
