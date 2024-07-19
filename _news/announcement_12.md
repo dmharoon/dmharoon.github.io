@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href="">Efficient Global Message Passing for Heterophilous Graphs</a> is accepted at <a href="https://cikm2024.org">CIKM 2024</a> for the short research paper track.
+Our paper <a href="https://cikm2024.org">Efficient Global Message Passing for Heterophilous Graphs</a> is accepted at <a href="https://cikm2024.org">CIKM 2024</a>.
