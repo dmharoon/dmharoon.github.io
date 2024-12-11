@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href="https://arxiv.org/pdf/2404.00385.pdf">Constrained Layout Generation with Factor Graphs</a> is accepted at <a href="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers">CVPR 2024</a>.
+Our paper <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Dupty_Constrained_Layout_Generation_with_Factor_Graphs_CVPR_2024_paper.html">Constrained Layout Generation with Factor Graphs</a> is accepted at <a href="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers">CVPR 2024</a>.
