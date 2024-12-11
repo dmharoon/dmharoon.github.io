@@ -152,14 +152,8 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="highlight">
-      {% if entry.note_url %}
-        <a href="{{entry.note_url}}">{{entry.note | strip}}</a>
-      {% else %}
-        <p style="color:gray">{{ entry.note | strip }}</p>
-      {% endif %}
-    </div>
-
+    <div class="periodical">
+      {{ entry.note | strip }}
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.abstract %}
